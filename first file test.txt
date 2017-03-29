@@ -3,3 +3,4 @@
 3 Changing the same line
 4 this is a change to test later 
 5 MERGE
+6 new line for bash
