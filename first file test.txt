@@ -1,5 +1,6 @@
 1 this is a change to test later 
 2 CHANGED
 3 Changing the same line
-4 this is a change to test later 
+4 green
+
 5 MERGE
